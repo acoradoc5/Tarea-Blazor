@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\WebEmpresa\\WebEmpresa.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\OneDrive\\Desktop\\WebEmpresa\\WebEmpresa.csproj",
       "projectName": "WebEmpresa",
-      "projectPath": "C:\\Users\\usuario\\Desktop\\WebEmpresa\\WebEmpresa.csproj",
+      "projectPath": "C:\\Users\\usuario\\OneDrive\\Desktop\\WebEmpresa\\WebEmpresa.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\Desktop\\WebEmpresa\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\OneDrive\\Desktop\\WebEmpresa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
